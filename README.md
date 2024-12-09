@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌟 Hello World, I'm Zoya Hassan! 🌟
+#  Hello World, I'm Zoya Hassan! 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=800080&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+and+AI+Engineer+👩‍💻;Building+the+future+with+AI+🤖;Generative+AI+Expert+⚛️;Innovation+Explorer+🔮)](https://git.io/typing-svg)
 
@@ -68,14 +68,6 @@ const aiTools = {
 
 </div>
 
-### 🎯 Weekly Dev Breakdown
-```text
-JavaScript   🟨 █████████████░░░░░   65%
-React        ⚛️ ████████████░░░░░░   60%
-Node.js      💚 ██████████░░░░░░░░   50%
-Python       🐍 ████████░░░░░░░░░░   40%
-HTML/CSS     🎨 ███████░░░░░░░░░░░   35%
-```
 
 ### 🌟 Let's Create Something Amazing Together!
 
