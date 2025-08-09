@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✨ Zoya Hassan ✨
+#  Zoya Hassan 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer+%26+AI+Engineer+👩‍💻;Vector+Database+Specialist+🔮;Generative+AI+Expert+⚛️;Building+the+future+with+AI+🤖)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
