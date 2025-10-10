@@ -129,9 +129,6 @@ const aiTools = {
   <a href="mailto:zoyah015@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://zoyahassan-psi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
   <a href="https://github.com/zoyaaaaaaa">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
