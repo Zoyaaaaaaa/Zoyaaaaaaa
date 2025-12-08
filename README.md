@@ -1,50 +1,48 @@
 <div align="center">
-  
-#  Zoya Hassan 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer+%26+AI+Engineer+👩‍💻;Vector+Database+Specialist+🔮;Generative+AI+Expert+⚛️;Building+the+future+with+AI+🤖)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+# Zoya Hassan
+
+### Full Stack Developer & AI Engineer
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="coding animation"/>
+
+*Building intelligent systems at the intersection of human creativity and artificial intelligence*
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoya-hassan-688470271/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoyah015@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zoyaaaaaaa)
 
 </div>
 
-## 🎭 About Me
+---
 
-<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding" />
+## 👋 About Me
 
-- 🚀 **Full Stack Developer** passionate about creating innovative solutions
-- 🤖 **AI/LLM integration specialist** with expertise in vector databases
-- 🧩 **Problem solver** transforming complex challenges into elegant solutions
-- 🌱 Always learning, always growing
-- 💫 **Knowledge Graph Enthusiast**
-- ⚡ Fun fact: I can debug code faster than I can decide what to have for dinner!
+I'm a passionate developer specializing in AI-powered applications and semantic search technologies. My work focuses on creating intuitive, intelligent systems that understand context and enhance human potential.
 
-<br clear="right"/>
+- 🤖 **AI/LLM Integration Specialist** with expertise in vector databases
+- 🌐 **Full Stack Developer** building scalable web applications
+- 🧠 **Knowledge Graph Enthusiast** exploring contextual understanding
+- 🚀 Transforming complex challenges into elegant solutions
 
-## 🔮 Current Adventures
+---
 
-<table>
-  <tr>
-    <td>🔭 <b>Building:</b></td>
-    <td>AI-powered web applications with semantic search capabilities</td>
-  </tr>
-  <tr>
-    <td>📚 <b>Learning:</b></td>
-    <td>Advanced LLM architectures, Vector Database optimization & Cloud Native development</td>
-  </tr>
-  <tr>
-    <td>🎯 <b>Goal:</b></td>
-    <td>Making technology more human-centric through contextual understanding</td>
-  </tr>
-  <tr>
-    <td>🌈 <b>Dreaming:</b></td>
-    <td>Of a world where AI enhances human creativity and potential</td>
-  </tr>
-</table>
+## 🎯 Current Focus
 
-## 💻 Tech Magic I Work With
+**Building** • AI-powered web applications with semantic search capabilities
+
+**Learning** • Advanced LLM architectures, Vector Database optimization & Cloud Native development
+
+**Goal** • Making technology more human-centric through contextual understanding
+
+---
+
+## 💻 Technical Skills
 
 <div align="center">
-  
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -57,83 +55,50 @@
 
 </div>
 
-### 🎨 Frontend Wonderland
+### Frontend Development
+React.js • Next.js • Vue.js • TypeScript • Tailwind CSS • Material UI • Redux • React Query • Zustand
 
-```javascript
-const frontendTools = {
-  frameworks: ['⚛️ React.js', '⚡ Next.js', '💫 Vue.js'],
-  styling: ['🎨 Tailwind CSS', '✨ Material UI', '💅 Styled Components'],
-  state: ['🔄 Redux', '🪝 React Query', '📦 Zustand'],
-  core: ['🌐 HTML5', '🎭 CSS3', '☕ TypeScript/JavaScript']
-}
-```
+### Backend Development
+Node.js • Express.js • FastAPI • MongoDB • PostgreSQL • MySQL • Firebase • JWT • OAuth2.0
 
-### 🏗️ Backend Kingdom
+### AI & Machine Learning
+OpenAI API • LangChain • Hugging Face • Pinecone • Qdrant • ChromaDB • FAISS • RAG Systems • Semantic Search • OpenCV • TensorFlow
 
-```javascript
-const backendTools = {
-  runtime: ['💚 Node.js', '🚂 Express.js', '🔺 FastAPI'],
-  databases: {
-    relational: ['🐬 MySQL', '🐘 PostgreSQL'],
-    noSQL: ['🍃 MongoDB', '🔥 Firebase'],
-    vector: ['🔮 Pinecone', 'FAISS ', '⚡ Qdrant']
-  },
-  auth: ['🔐 JWT', '🍪 Auth Cookies', '👤 OAuth2.0'],
-  deployment: ['☁️ AWS', '🌥️ Google Cloud', '💻 Vercel', '🚀 Netlify']
-}
-```
+### Knowledge Engineering
+Neo4j • Vector Embeddings • Sentence Transformers • BERT • RDF • SPARQL
 
-### 🤖 AI & Knowledge Engineering
+### Cloud & DevOps
+AWS • Google Cloud • Vercel • Netlify
 
-```javascript
-const aiTools = {
-  languageModels: ['🧠 OpenAI API', '🤗 Hugging Face', '🔄 LangChain'],
-  vectorDBs: ['🔮 Pinecone', '🧠 Qdrant', '🔍 ChromaDB'],
-  vision: ['👁️ OpenCV', '🖼️ TensorFlow Vision'],
-  embeddingModels: ['📊 OpenAI Embeddings', '🔤 BERT', '🌐 Sentence Transformers'],
-  knowledgeGraphs: ['🕸️ Neo4j', '🔄 RDF', '🧩 SPARQL'],
-  RAG: ['📚 Retrieval Augmented Generation', '🔍 Semantic Search']
-}
-```
+---
 
-
-## 🚀 Projects
-
-<p align="center">
-  <b>👉 Check out more of my projects in my <a href="https://github.com/zoyaaaaaaa?tab=repositories">repositories</a>! 👈</b>
-</p>
-
-
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-  
-  <a href="https://github.com/zoyaaaaaaa">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zoyaaaaaaa&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoyaaaaaaa&layout=compact&langs_count=7&theme=aura" />
-  </a>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zoyaaaaaaa&theme=radical" alt="zoyaaaaaaa" />
-  
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=zoyaaaaaaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoyaaaaaaa&layout=compact&langs_count=8&theme=radical&border_radius=10" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zoyaaaaaaa&theme=radical&border_radius=10" alt="GitHub Streak" />
+
 </div>
 
-## 🌟 Connect With Me
+---
+
+## 🚀 Featured Projects
+
+Explore my work in building AI-powered applications, semantic search systems, and full-stack solutions.
+
+**[View All Repositories →](https://github.com/zoyaaaaaaa?tab=repositories)**
+
+---
 
 <div align="center">
-  
-  <a href="https://www.linkedin.com/in/zoya-hassan-688470271/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:zoyah015@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/zoyaaaaaaa">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <br/>
-  <br/>
-  
 
+### 💡 *"The best way to predict the future is to invent it."*
+
+**Let's build something amazing together!**
+
+</div>
