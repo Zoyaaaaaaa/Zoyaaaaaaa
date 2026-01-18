@@ -70,20 +70,6 @@ Neo4j • Vector Embeddings • Sentence Transformers • BERT • RDF • SPARQ
 ### Cloud & DevOps
 AWS • Google Cloud • Vercel • Netlify
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=zoyaaaaaaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoyaaaaaaa&layout=compact&langs_count=8&theme=radical&border_radius=10" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zoyaaaaaaa&theme=radical&border_radius=10" alt="GitHub Streak" />
-
-</div>
 
 ---
 
