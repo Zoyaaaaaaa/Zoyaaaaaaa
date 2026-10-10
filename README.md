@@ -3,9 +3,9 @@
 # Zoya Hassan
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="coding animation"/>
 
-### Applied AI Engineer · Remote Production AI Systems
+### Applied AI Engineer · Production AI Systems
 
-Designing, building, and shipping production-grade LLM systems — RAG, agentic AI, conversational and long-context AI, and scalable AI infrastructure.
+Designing, building, and shipping production-grade LLM systems : RAG, agentic AI, conversational and long-context AI, and scalable AI infrastructure.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoya-hassan-688470271/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zoyah015@gmail.com)
